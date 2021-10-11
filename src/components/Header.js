@@ -37,6 +37,7 @@ const Header = () => {
     </Nav>
     </Navbar.Collapse>
       </Container>
-    </Navbar>);
+    </Navbar>
+     );
 }
 export default Header;
